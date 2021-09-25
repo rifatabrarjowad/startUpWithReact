@@ -8,3 +8,4 @@ for (let i = 0; i < b; i++) {
     console.log(getitem(a, b));
 
 }
+// 2. How can you order roll numbers of students in your class sequentially?
